@@ -4,10 +4,23 @@ Automate RIFE
 ### How to
 Change your video file name to 'mov.mp4' and copy it to the main directory.
 
-Run 1_movie_Ext and 2_interpolate.
+Run RifeAuto.
 
 ### Sample
 ![origin0](Honeycam%20i.gif)
+
+### Interpolate Performance
+@ GTX1070, RX580
+
+720x480 (DVD)    50fps
+
+1280x720 (HD)   25fps
+
+1920x1080 (FHD)  12fps
+
+2560x1440 (QHD)  6fps
+
+3840x2160 (4K) 3fps
 
 ### Links
 Core binary is from:
