@@ -7,7 +7,7 @@ Change your video file name to 'mov.mp4' and copy it to the main directory.
 Run RifeAuto.
 
 ### Sample
-![origin0](Honeycam%20i.gif)
+![origin0](INTER kx.gif)
 
 ### Interpolate Performance
 @ GTX1070, RX580
